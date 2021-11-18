@@ -1,0 +1,80 @@
+{
+    "heroes": [
+        {
+            "id": 1,
+            "image": "https://www.dotafire.com/images/hero/icon/alchemist.png",
+            "name": "Alchemist",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "role": [
+                "Carry",
+                "Disabler"
+            ],
+            "stats": [
+                {
+                    "baseAttack": "50-60",
+                    "turnRate": "1.7"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "image": "https://www.dotafire.com/images/hero/icon/ancient-apparition.png",
+            "name": "Ancient Apparition",
+            "primaryAttribute": "Intelligence",
+            "attackType": "Ranged",
+            "role": [
+                "Support",
+                "Disabler"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "https://www.dotafire.com/images/hero/icon/anti-mage.png",
+            "name": "Anti-Mage",
+            "primaryAttribute": "Agility",
+            "attackType": "Melee",
+            "role": [
+                "Carry",
+                "Escape"
+            ]
+        },
+        {
+            "id": 4,
+            "image": "https://www.dotafire.com/images/hero/icon/axe.png",
+            "name": "Axe",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "role": [
+                "Initiator",
+                "Disabler",
+                "Jungler",
+                "Durable"
+            ]
+        },
+        {
+            "id": 5,
+            "image": "https://www.dotafire.com/images/hero/icon/arc-warden.png",
+            "name": "Arc Warden",
+            "primaryAttribute": "Agility",
+            "attackType": "Ranged",
+            "role": [
+                "Carry",
+                "Pusher"
+            ]
+        },
+        {
+            "id": 6,
+            "image": "https://www.dotafire.com/images/hero/icon/brewmaster.png",
+            "name": "Brew Master",
+            "primaryAttribute": "Strength",
+            "attackType": "Melee",
+            "role": [
+                "Initiatator",
+                "Durable",
+                "Escape",
+                "Semi-Carry"
+            ]
+        }
+    ]
+}

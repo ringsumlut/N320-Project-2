@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.Modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  padding: 2em;
+  min-width: 20em;
+  max-width: 70%;
+  color: #f00;
+  background-color: #fff;
+  border-radius: 1em;
+  transform: translate(-50%, -50%);
+  outline: transparent;
+}
+.Overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.backBtn {
+  background-color: green;
+  width: 80px;
+  height: 40px;
+  border-radius: 15px;
+  border-style: none;
+}
+.hImage {
+  width: 100px;
+}
+.hImage:hover {
+  transform: scale(1.5);
+}
